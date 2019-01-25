@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidInterview</string>
+    <string name = "sq">Simple Questions</string>
+    <string name= "tq">Tough Questions</string>
+    <string name = "soa">See Other Apps</string>
+    <string name = "ra">Rate This App</string>
+    <string name = "tv_xx">XX/</string>
+    <string name = "tv_yy">YY</string>
+    <string name="ques">QUESTION ???</string>
+    <string name="ans">PRESS A BUTTON FOR ABSWER!!!!</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tough_ques" type="id" />
+    <item name="tough_ans" type="id" />
+    <item name="simple_ans" type="id" />
+</resources>

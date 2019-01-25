@@ -1,0 +1,7 @@
+<resources>
+    <string-array name ="tough_ans">
+        <item >it is the open source perating system</item>
+        <item >it is tool set that developers need in order to write an app on android devices.</item>
+    </string-array>
+
+</resources>

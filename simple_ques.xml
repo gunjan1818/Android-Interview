@@ -1,0 +1,7 @@
+<resources>
+    <string-array name ="simple_ques">
+        <item >What Is Android ?</item>
+        <item>What is Google Android SDK ?</item>
+    </string-array>
+
+</resources>
